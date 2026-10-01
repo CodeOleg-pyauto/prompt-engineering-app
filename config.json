@@ -1,0 +1,6 @@
+{
+  "time_limit_seconds": 600,
+  "score_multiplier": 10,
+  "results_directory": "results",
+  "event_day": ""
+}

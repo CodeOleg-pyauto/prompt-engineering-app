@@ -1,0 +1,20 @@
+﻿МИР • Промпт — offline educational activity
+
+Logo: College MIR, official website https://cdee.ru/
+Original image: https://cdee.ru/wp-content/uploads/sites/165/2022/06/logo_2.png
+Logo is included as a branding reference for the college demonstration.
+
+Dependencies distributed in a Windows build:
+PySide6 / Qt 6: Qt Company, LGPL v3 / GPL v3 / commercial licensing, depending on module.
+Qt WebEngine also includes Chromium and third-party components.
+PyInstaller: GPL v2 with an exception permitting distribution of bundled applications.
+
+Official license information:
+https://doc.qt.io/qtforpython-6/licenses.html
+https://doc.qt.io/qt-6/qtwebengine-licensing.html
+https://pyinstaller.org/en/stable/license.html
+
+Build uses dynamically linked Qt libraries in a separate portable directory.
+Keep bundled license files and third-party notices with the application.
+
+Application icon: original swan graphic generated with built-in imagegen, inspired by the user-described academic swan motif; not an official university logo.

@@ -1,0 +1,32 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*secret*
+*credentials*
+*.pem
+*.key
+*.p12
+*.pfx
+config.local.json
+
+# Participant information and generated reports
+results/**
+!results/README.txt
+pending/
+*.xlsx
+*.csv
+*.log
+
+# Local environments and build artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.zip
+.pytest_cache/
+.DS_Store
+Thumbs.db
